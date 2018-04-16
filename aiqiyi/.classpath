@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/spark/spark-2.0.1-bin-hadoop2.6/jars/spark-core_2.11-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/spark-streaming_2.11-2.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/hbase-server-1.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/hbase-client-1.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/spark-streaming-kafka-0-10_2.11-2.1.0.jar" sourcepath="C:/Users/6/.m2/repository/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.0/spark-streaming-kafka-0-10_2.11-2.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/scala-2.11.8/scala-2.11.8/lib/scala-library.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/hadoop-common-2.7.2.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/hbase-it-1.2.0-cdh5.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/hbase-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="F:/开源代码/kafka-clients-0.10.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
